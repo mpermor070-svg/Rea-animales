@@ -1,0 +1,950 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>neo</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>20260508222444G14Y1W</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>20260508222444C7TFME</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>4.0.0</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>¿Quién soy? </value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_subtitle</key>
+    <value>Describimos animales.</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_author</key>
+    <value>María del Pilar Pérez Moreno</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_description</key>
+    <value>Se pretende fomentar la expresión y comprensión oral, a través de descripciones orales. 
+</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>es</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_license</key>
+    <value>creative commons: attribution - share alike 4.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_licenseUrl</key>
+    <value>https://creativecommons.org/licenses/by-sa/4.0/</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>neo</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1778189005117</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>opendyslexic</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>page-1778090154098-3voqgiea0</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>PRESENTACIÓN Y DESCRIPCIÓN DEL PROYECTO.</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>PRESENTACIÓN Y DESCRIPCIÓN DEL PROYECTO.</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>PRESENTACIÓN Y DESCRIPCIÓN DEL PROYECTO.</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778090154098-3voqgiea0</odePageId>
+      <odeBlockId>block-1778092014544-71jokttzf</odeBlockId>
+      <blockName></blockName>
+      <iconName>book</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778090154098-3voqgiea0</odePageId>
+          <odeBlockId>block-1778092014544-71jokttzf</odeBlockId>
+          <odeIdeviceId>idevice-1778092014527-z9m5g2j6w</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><br /></p>
+<figure class="exe-figure position-center" style="width: 500px;"><img src="{{context_path}}/content/resources/mceclip0.png" width="500" height="500" alt="" />
+<figcaption class="figcaption"><a href="Autor pictogramas:Sergio Palao. Propiedad de Aragón" class="author" target="_blank" rel="noopener">Autor pictogramas:Sergio Palao. Propiedad de Aragón</a>. <span class="license"><span class="sep">(</span><a href="http://creativecommons.org/licenses/" class="license" target="_blank" rel="noopener">CC BY-NC-SA</a><span class="sep">)</span></span></figcaption>
+</figure>
+<p>El proyecto parte de la presentación del juego de mesa Concepts Kids. Animales es un juego cooperativo en el que se usan los iconos del tablero para que los demás adivinen el animal.</p>
+<p>El eje motivador del proyecto es la descripción de animales. La intervención se centra en todos los componentes del lenguaje ( fonético, fonológico, semántico, morfosintáctico y pragmático)</p>
+<p>El objetivo principal es estimular el lenguaje oral en los alumnos y alumnas de 5 años. Además de prevenir, detectar e intervenir las posibles dificultades comunicativas. </p>
+<p><br /></p>
+<p><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778092014527-z9m5g2j6w","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><br /></p>\n<figure class=\"exe-figure position-center\" style=\"width: 500px;\"><img src=\"{{context_path}}/content/resources/mceclip0.png\" width=\"500\" height=\"500\" alt=\"\" />\n<figcaption class=\"figcaption\"><a href=\"Autor pictogramas:Sergio Palao. Propiedad de Aragón\" class=\"author\" target=\"_blank\" rel=\"noopener\">Autor pictogramas:Sergio Palao. Propiedad de Aragón</a>. <span class=\"license\"><span class=\"sep\">(</span><a href=\"http://creativecommons.org/licenses/\" class=\"license\" target=\"_blank\" rel=\"noopener\">CC BY-NC-SA</a><span class=\"sep\">)</span></span></figcaption>\n</figure>\n<p>El proyecto parte de la presentación del juego de mesa Concepts Kids. Animales es un juego cooperativo en el que se usan los iconos del tablero para que los demás adivinen el animal.</p>\n<p>El eje motivador del proyecto es la descripción de animales. La intervención se centra en todos los componentes del lenguaje ( fonético, fonológico, semántico, morfosintáctico y pragmático)</p>\n<p>El objetivo principal es estimular el lenguaje oral en los alumnos y alumnas de 5 años. Además de prevenir, detectar e intervenir las posibles dificultades comunicativas. </p>\n<p><br /></p>\n<p><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778093131934-yxih6i4kp</odePageId>
+  <odeParentPageId>page-1778090154098-3voqgiea0</odeParentPageId>
+  <pageName>TEMPORALIZACIÓN</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>TEMPORALIZACIÓN</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778093131934-yxih6i4kp</odePageId>
+      <odeBlockId>block-1778093170900-gra2pnd0w</odeBlockId>
+      <blockName></blockName>
+      <iconName>chrono</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778093131934-yxih6i4kp</odePageId>
+          <odeBlockId>block-1778093170900-gra2pnd0w</odeBlockId>
+          <odeIdeviceId>idevice-1778093170898-x8bkslnrb</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Alumnado de 5 años de Educación Infantil.</p>
+<p>Duración: 2 semanas</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778093170898-x8bkslnrb","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Alumnado de 5 años de Educación Infantil.</p>\n<p>Duración: 2 semanas</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778170004706-1w5ec3aj4</odePageId>
+  <odeParentPageId>page-1778090154098-3voqgiea0</odeParentPageId>
+  <pageName>DESCRIPCIÓN DEL PRODUCTO FINAL</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>DESCRIPCIÓN DEL PRODUCTO FINAL</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778170004706-1w5ec3aj4</odePageId>
+      <odeBlockId>block-1778170156816-h3omjadoz</odeBlockId>
+      <blockName></blockName>
+      <iconName>observe</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778170004706-1w5ec3aj4</odePageId>
+          <odeBlockId>block-1778170156816-h3omjadoz</odeBlockId>
+          <odeIdeviceId>idevice-1778170156775-i2ih2y40h</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <figure class="exe-figure position-center" style="width: 371px;"><img src="{{context_path}}/content/resources/2372.png" width="371" height="371" alt="" />
+<figcaption class="figcaption"><a href="Propiedad Gobierno de Aragón" class="author" target="_blank" rel="noopener">Autor pictogramas Sergio Palao</a>. <span class="title"><em>Imagen de Arasaac</em></span> <span class="license"><span class="sep">(</span><a href="http://creativecommons.org/licenses/" class="license" target="_blank" rel="noopener">CC BY-NC-SA</a><span class="sep">)</span></span></figcaption>
+</figure>
+<p>Para mi situación de aprendizaje, vamos a elaborar un tablero en Canva con las características de los animales y un bingo con herramientas online de Arasaac. La tarea final consiste en  grabar un vídeo-adivinanza en el que describa su animal. Las familias lo enviarán a través de una carpeta compartida en Drive, de esta forma se centraliza la información. Aquellos alumnos y alumnas que no puedan realizar la actividad en casa, grabaremos el vídeo en clase para que todo el alumnado pueda participar.<br />El grabar un vídeo es un recurso muy útil para fomentar la expresión oral, mejorando su estructura sintáctica y su vocabulario. <br />La herramienta digital Canva permite resumir las características más importantes de los animales, además de ayudar en la organización de ideas.<br />Teniendo en cuenta el Diseño Universal de Aprendizaje (DUA), el uso de un bingo de pictogramas permite la accesibilidad para todo el alumnado, ya que mejora la comprensión mediante el apoyo visual.<br />Este proyecto va dirigido a una clase de 5 años para estimular el lenguaje oral.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778170156775-i2ih2y40h","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<figure class=\"exe-figure position-center\" style=\"width: 371px;\"><img src=\"{{context_path}}/content/resources/2372.png\" width=\"371\" height=\"371\" alt=\"\" />\n<figcaption class=\"figcaption\"><a href=\"Propiedad Gobierno de Aragón\" class=\"author\" target=\"_blank\" rel=\"noopener\">Autor pictogramas Sergio Palao</a>. <span class=\"title\"><em>Imagen de Arasaac</em></span> <span class=\"license\"><span class=\"sep\">(</span><a href=\"http://creativecommons.org/licenses/\" class=\"license\" target=\"_blank\" rel=\"noopener\">CC BY-NC-SA</a><span class=\"sep\">)</span></span></figcaption>\n</figure>\n<p>Para mi situación de aprendizaje, vamos a elaborar un tablero en Canva con las características de los animales y un bingo con herramientas online de Arasaac. La tarea final consiste en  grabar un vídeo-adivinanza en el que describa su animal. Las familias lo enviarán a través de una carpeta compartida en Drive, de esta forma se centraliza la información. Aquellos alumnos y alumnas que no puedan realizar la actividad en casa, grabaremos el vídeo en clase para que todo el alumnado pueda participar.<br />El grabar un vídeo es un recurso muy útil para fomentar la expresión oral, mejorando su estructura sintáctica y su vocabulario. <br />La herramienta digital Canva permite resumir las características más importantes de los animales, además de ayudar en la organización de ideas.<br />Teniendo en cuenta el Diseño Universal de Aprendizaje (DUA), el uso de un bingo de pictogramas permite la accesibilidad para todo el alumnado, ya que mejora la comprensión mediante el apoyo visual.<br />Este proyecto va dirigido a una clase de 5 años para estimular el lenguaje oral.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778103089712-639c0e62k</odePageId>
+  <odeParentPageId>page-1778090154098-3voqgiea0</odeParentPageId>
+  <pageName>MATERIAS IMPLICADAS</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>MATERIAS IMPLICADAS</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778103089712-639c0e62k</odePageId>
+      <odeBlockId>block-1778174919107-qcchhf38c</odeBlockId>
+      <blockName></blockName>
+      <iconName>diary_alt</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778103089712-639c0e62k</odePageId>
+          <odeBlockId>block-1778174919107-qcchhf38c</odeBlockId>
+          <odeIdeviceId>idevice-1778174919104-1v5v18znj</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>- Comunicación y representación de la realidad.  </p>
+<p>- Descubrimiento y exploración del entorno.</p>
+<p>- Crecimiento en armonía.</p>
+<p><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778174919104-1v5v18znj","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>- Comunicación y representación de la realidad.  </p>\n<p>- Descubrimiento y exploración del entorno.</p>\n<p>- Crecimiento en armonía.</p>\n<p><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778163983692-qjg8b1p3o</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>PROTECCIÓN DE DATOS PERSONALES Y GARANTÍAS DE DERECHOS DIGITALES.</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>PROTECCIÓN DE DATOS PERSONALES Y GARANTÍAS DE DERECHOS DIGITALES.</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778163983692-qjg8b1p3o</odePageId>
+      <odeBlockId>block-1778172982378-vo4o5u6ge</odeBlockId>
+      <blockName></blockName>
+      <iconName>observe</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778163983692-qjg8b1p3o</odePageId>
+          <odeBlockId>block-1778172982378-vo4o5u6ge</odeBlockId>
+          <odeIdeviceId>idevice-1778172982377-bejjvh3mx</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <figure class="exe-figure exe-media position-center license-CC0" style="width: 800px;"><iframe width="800" height="800" src="https://www.canva.com/design/DAHHkNqWc4A/scJR17XN_fLSuCjiiv3goQ/view?embed"></iframe>
+<figcaption class="figcaption"><a href="&lt;div style=&quot;position: relative; width: 100%; height: 0; padding-top: 141.4286%;  padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden;  border-radius: 8px; will-change: transform;&quot;&gt;   &lt;iframe loading=&quot;lazy&quot; style=&quot;position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0;margin: 0;&quot;     src=&quot;https://www.canva.com/design/DAHHkNqWc4A/scJR17XN_fLSuCjiiv3goQ/view?embed&quot; allowfullscreen=&quot;allowfullscreen&quot; allow=&quot;fullscreen&quot;&gt;   &lt;/iframe&gt; &lt;/div&gt; &lt;a href=&quot;https://www.canva.com/design/DAHHkNqWc4A/scJR17XN_fLSuCjiiv3goQ/view?utm_content=DAHHkNqWc4A&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Póster de proteger la seguridad en linea Ilustrativo Amarillo&lt;/a&gt; de María del Pilar Pérez Moreno" target="_blank" class="author" rel="noopener"> Plantilla de Hkbagenet. Canva</a>. <a href="Canva" target="_blank" class="title" rel="noopener"><em>Póster de María del Pilar Pérez Moreno</em></a> <span class="license"><span class="sep">(</span><a href="http://creativecommons.org/publicdomain/zero/1.0/deed.en" rel="license nofollow noopener" target="_blank" title="Creative Commons (CC0)">CC0</a><span class="sep">)</span></span></figcaption>
+</figure>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778172982377-bejjvh3mx","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<figure class=\"exe-figure exe-media position-center license-CC0\" style=\"width: 800px;\"><iframe width=\"800\" height=\"800\" src=\"https://www.canva.com/design/DAHHkNqWc4A/scJR17XN_fLSuCjiiv3goQ/view?embed\"></iframe>\n<figcaption class=\"figcaption\"><a href=\"&lt;div style=&quot;position: relative; width: 100%; height: 0; padding-top: 141.4286%;  padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden;  border-radius: 8px; will-change: transform;&quot;&gt;   &lt;iframe loading=&quot;lazy&quot; style=&quot;position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0;margin: 0;&quot;     src=&quot;https://www.canva.com/design/DAHHkNqWc4A/scJR17XN_fLSuCjiiv3goQ/view?embed&quot; allowfullscreen=&quot;allowfullscreen&quot; allow=&quot;fullscreen&quot;&gt;   &lt;/iframe&gt; &lt;/div&gt; &lt;a href=&quot;https://www.canva.com/design/DAHHkNqWc4A/scJR17XN_fLSuCjiiv3goQ/view?utm_content=DAHHkNqWc4A&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Póster de proteger la seguridad en linea Ilustrativo Amarillo&lt;/a&gt; de María del Pilar Pérez Moreno\" target=\"_blank\" class=\"author\" rel=\"noopener\"> Plantilla de Hkbagenet. Canva</a>. <a href=\"Canva\" target=\"_blank\" class=\"title\" rel=\"noopener\"><em>Póster de María del Pilar Pérez Moreno</em></a> <span class=\"license\"><span class=\"sep\">(</span><a href=\"http://creativecommons.org/publicdomain/zero/1.0/deed.en\" rel=\"license nofollow noopener\" target=\"_blank\" title=\"Creative Commons (CC0)\">CC0</a><span class=\"sep\">)</span></span></figcaption>\n</figure>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778187380949-k4hzjtlrw</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>GUÍA DIDÁCTICA</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>GUÍA DIDÁCTICA</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>GUÍA DIDÁCTICA</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778187380949-k4hzjtlrw</odePageId>
+      <odeBlockId>block-1778187383053-11s4mwpx3</odeBlockId>
+      <blockName>RELACIONAMOS TAREAS CON CRITERIOS DE EVALUACIÓN.</blockName>
+      <iconName>activity</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778187380949-k4hzjtlrw</odePageId>
+          <odeBlockId>block-1778187383053-11s4mwpx3</odeBlockId>
+          <odeIdeviceId>idevice-1778187383053-jmt7x4ep8</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><iframe width="774" height="387" src="https://docs.google.com/document/d/e/2PACX-1vRcu5Q1q8vU4vkFSI4iCIV4787c7YOqQcD1ZkMHYy31n_ExFKLDmznI_vuMb8rvd-yCq9usfTzFC_Xf/pub?embedded=true"></iframe></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778187383053-jmt7x4ep8","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><iframe width=\"774\" height=\"387\" src=\"https://docs.google.com/document/d/e/2PACX-1vRcu5Q1q8vU4vkFSI4iCIV4787c7YOqQcD1ZkMHYy31n_ExFKLDmznI_vuMb8rvd-yCq9usfTzFC_Xf/pub?embedded=true\"></iframe></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778252325434-60ai2lhsl</odePageId>
+  <odeParentPageId>page-1778187380949-k4hzjtlrw</odeParentPageId>
+  <pageName>COMPETENCIAS ESPECÍFICAS</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>COMPETENCIAS ESPECÍFICAS</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778252325434-60ai2lhsl</odePageId>
+      <odeBlockId>block-1778252340737-wctto8n8r</odeBlockId>
+      <blockName></blockName>
+      <iconName>book</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778252325434-60ai2lhsl</odePageId>
+          <odeBlockId>block-1778252340737-wctto8n8r</odeBlockId>
+          <odeIdeviceId>idevice-1778252340732-2oi69rg0c</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><span style="color: #3598db;">COMUNICACIÓN Y REPRESENTACIÓN DE LA REALIDAD (SEGUNDO CICLO)</span></p>
+<p>1. Manifestar interés por interactuar en situaciones cotidianas a través de la exploración y el uso de su repertorio comunicativo, para expresar sus necesidades e intenciones y para responder a las exigencias del entorno.</p>
+<p>2. Interpretar y comprender mensajes y representaciones, apoyándose en conocimientos y recursos de su propia experiencia para responder a las demandas del entorno y construir nuevos aprendizajes.</p>
+<p>3. Producir mensajes de manera eficaz, personal y creativa utilizando diferentes lenguajes, descubriendo los códigos de cada uno de ellos y explorando sus posibilidades expresivas para responder a diferentes necesidades comunicativas.</p>
+<p>4. Participar por iniciativa propia en actividades relacionadas con textos escritos, mostrando interés y curiosidad por comprender su funcionalidad y algunas de sus características.</p>
+<p>5. Valorar la diversidad lingüística presente en su entorno, así como otras manifestaciones culturales, para enriquecer sus estrategias comunicativas y su bagaje cultural.</p>
+<p><span style="color: #2dc26b;">DESCUBRIMIENTO Y EXPLORACIÓN DEL ENTORNO (SEGUNDO CICLO)</span></p>
+<p>3. Reconocer elementos y fenómenos de la naturaleza, mostrando interés por los hábitos que inciden sobre ella, para apreciar la importancia del uso sostenible, el cuidado y la conservación del entorno en la vida de las personas, generando actitudes de interés, valoración y aprecio sobre el patrimonio natural andaluz y su biodiversidad.</p>
+<p><span style="color: #843fa1;"></span></p>
+<p><span style="color: #843fa1;">CRECIMIENTO EN ARMONÍA (SEGUNDO CICLO)</span></p>
+<p>1. Progresar en el conocimiento y control de su cuerpo y en la adquisición de distintas estrategias, adecuando sus acciones a la realidad del entorno de una manera participada y autónoma, para construir una autoimagen ajustada y positiva.</p>
+<p>4. Establecer interacciones sociales en condiciones de igualdad, valorando la importancia de la amistad, la mediación, el respeto y la empatía, para construir su propia identidad basada en valores democráticos y de respeto a los derechos humanos.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778252340732-2oi69rg0c","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><span style=\"color: #3598db;\">COMUNICACIÓN Y REPRESENTACIÓN DE LA REALIDAD (SEGUNDO CICLO)</span></p>\n<p>1. Manifestar interés por interactuar en situaciones cotidianas a través de la exploración y el uso de su repertorio comunicativo, para expresar sus necesidades e intenciones y para responder a las exigencias del entorno.</p>\n<p>2. Interpretar y comprender mensajes y representaciones, apoyándose en conocimientos y recursos de su propia experiencia para responder a las demandas del entorno y construir nuevos aprendizajes.</p>\n<p>3. Producir mensajes de manera eficaz, personal y creativa utilizando diferentes lenguajes, descubriendo los códigos de cada uno de ellos y explorando sus posibilidades expresivas para responder a diferentes necesidades comunicativas.</p>\n<p>4. Participar por iniciativa propia en actividades relacionadas con textos escritos, mostrando interés y curiosidad por comprender su funcionalidad y algunas de sus características.</p>\n<p>5. Valorar la diversidad lingüística presente en su entorno, así como otras manifestaciones culturales, para enriquecer sus estrategias comunicativas y su bagaje cultural.</p>\n<p><span style=\"color: #2dc26b;\">DESCUBRIMIENTO Y EXPLORACIÓN DEL ENTORNO (SEGUNDO CICLO)</span></p>\n<p>3. Reconocer elementos y fenómenos de la naturaleza, mostrando interés por los hábitos que inciden sobre ella, para apreciar la importancia del uso sostenible, el cuidado y la conservación del entorno en la vida de las personas, generando actitudes de interés, valoración y aprecio sobre el patrimonio natural andaluz y su biodiversidad.</p>\n<p><span style=\"color: #843fa1;\"></span></p>\n<p><span style=\"color: #843fa1;\">CRECIMIENTO EN ARMONÍA (SEGUNDO CICLO)</span></p>\n<p>1. Progresar en el conocimiento y control de su cuerpo y en la adquisición de distintas estrategias, adecuando sus acciones a la realidad del entorno de una manera participada y autónoma, para construir una autoimagen ajustada y positiva.</p>\n<p>4. Establecer interacciones sociales en condiciones de igualdad, valorando la importancia de la amistad, la mediación, el respeto y la empatía, para construir su propia identidad basada en valores democráticos y de respeto a los derechos humanos.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778170624479-3ghhzr6ib</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>CURACIÓN DE CONTENIDOS</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>CURACIÓN DE CONTENIDOS</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778170624479-3ghhzr6ib</odePageId>
+      <odeBlockId>block-1778170918203-g3e8qvx7p</odeBlockId>
+      <blockName>PADLET</blockName>
+      <iconName>think</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778170624479-3ghhzr6ib</odePageId>
+          <odeBlockId>block-1778170918203-g3e8qvx7p</odeBlockId>
+          <odeIdeviceId>idevice-1778170918202-5j5av23e1</odeIdeviceId>
+          <odeIdeviceTypeName>external-website</odeIdeviceTypeName>
+          <htmlView><![CDATA[      <div id="iframeWebsiteIdevice">       <iframe src="https://padlet.com/mpermor070/descripcion-de-animales-ywg3ng9hc6zf83it" size="2" width="600" height="300" style="width:100%;">      </iframe>      <div class="iframe-error-message" style="display:none;">No se puede mostrar un iframe en HTTP en una web HTTPS.</div>       </div>      ]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1778170624479-3ghhzr6ib</odePageId>
+      <odeBlockId>block-1778171486436-ssle2qsbw</odeBlockId>
+      <blockName>SYMBALOO</blockName>
+      <iconName>think</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778170624479-3ghhzr6ib</odePageId>
+          <odeBlockId>block-1778171486436-ssle2qsbw</odeBlockId>
+          <odeIdeviceId>idevice-1778171486436-1f15xwb2h</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><a href="https://www.symbaloo.com/shared/AAAAAcs3MQMAA41-5EQcsA==" target="_blank" rel="noopener" title="">ENLACE PARA ACCEDER A LA HERRAMIENTA DE SYMBALOO</a></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778171486436-1f15xwb2h","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><a href=\"https://www.symbaloo.com/shared/AAAAAcs3MQMAA41-5EQcsA==\" target=\"_blank\" rel=\"noopener\" title=\"\">ENLACE PARA ACCEDER A LA HERRAMIENTA DE SYMBALOO</a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778103292632-db1kmjewj</odePageId>
+  <odeParentPageId>page-1778170624479-3ghhzr6ib</odeParentPageId>
+  <pageName>MATERIALES</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>MATERIALES</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>MATERIALES</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778103292632-db1kmjewj</odePageId>
+      <odeBlockId>block-1778253186327-6crofknew</odeBlockId>
+      <blockName>TABLERO CON CARACTERÍSTICAS DE LOS ANIMALES</blockName>
+      <iconName>play</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778103292632-db1kmjewj</odePageId>
+          <odeBlockId>block-1778253186327-6crofknew</odeBlockId>
+          <odeIdeviceId>idevice-1778253186326-erxnadarb</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <div style="position: relative; width: 100%; height: 0; padding-top: 70.7071%; padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden; border-radius: 8px; will-change: transform;"><iframe width="100" height="100" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0; margin: 0;" loading="lazy" src="https://www.canva.com/design/DAHH2C91Ha8/h2-aPYhUmV8eSpvqrhGTNg/view?embed" allowfullscreen="allowfullscreen" allow="fullscreen" data-mce-fragment="1">
+  </iframe></div>
+<p><a href="https://www.canva.com/design/DAHH2C91Ha8/h2-aPYhUmV8eSpvqrhGTNg/view?utm_content=DAHH2C91Ha8&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">Documento a4 tablero de juego infantil colorido</a> de María del Pilar Pérez Moreno. Plantilla de Canva de Carlos.</p>
+<p></p>
+<p></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778253186326-erxnadarb","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<div style=\"position: relative; width: 100%; height: 0; padding-top: 70.7071%; padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden; border-radius: 8px; will-change: transform;\"><iframe width=\"100\" height=\"100\" style=\"position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0; margin: 0;\" loading=\"lazy\" src=\"https://www.canva.com/design/DAHH2C91Ha8/h2-aPYhUmV8eSpvqrhGTNg/view?embed\" allowfullscreen=\"allowfullscreen\" allow=\"fullscreen\" data-mce-fragment=\"1\">\n  </iframe></div>\n<p><a href=\"https://www.canva.com/design/DAHH2C91Ha8/h2-aPYhUmV8eSpvqrhGTNg/view?utm_content=DAHH2C91Ha8&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link\" target=\"_blank\" rel=\"noopener\">Documento a4 tablero de juego infantil colorido</a> de María del Pilar Pérez Moreno. Plantilla de Canva de Carlos.</p>\n<p></p>\n<p></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1778103292632-db1kmjewj</odePageId>
+      <odeBlockId>block-1778266727394-pgwxowf5y</odeBlockId>
+      <blockName>FICHA INDIVIDUAL</blockName>
+      <iconName>draw</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778103292632-db1kmjewj</odePageId>
+          <odeBlockId>block-1778266727394-pgwxowf5y</odeBlockId>
+          <odeIdeviceId>idevice-1778266727356-2wibnezo2</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p></p>
+<figure class="exe-figure exe-media position-center license-CC-BY-NC-SA" style="width: 811px;" id="fig_y5vtx1hse"><iframe width="811" height="457" src="{{context_path}}/content/resources/Documento sin título (1).pdf" data-mce-fragment="1"></iframe>
+<figcaption class="figcaption"><a href="Autor pictogramas: Sergio Palao. Propiedad Gobierno de Aragón" target="_blank" class="author" rel="noopener">Creado por María del Pilar Pérez Moreno</a> <span class="license"><span class="sep">(</span><a href="http://creativecommons.org/licenses/" rel="license nofollow noopener" target="_blank" title="Creative Commons BY-NC-SA">CC BY-NC-SA</a><span class="sep">)</span></span></figcaption>
+</figure>
+<p><img src="{{context_path}}/content/resources/Documento sin título (1).pdf" alt="" /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778266727356-2wibnezo2","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p></p>\n<figure class=\"exe-figure exe-media position-center license-CC-BY-NC-SA\" style=\"width: 811px;\" id=\"fig_y5vtx1hse\"><iframe width=\"811\" height=\"457\" src=\"{{context_path}}/content/resources/Documento sin título (1).pdf\" data-mce-fragment=\"1\"></iframe>\n<figcaption class=\"figcaption\"><a href=\"Autor pictogramas: Sergio Palao. Propiedad Gobierno de Aragón\" target=\"_blank\" class=\"author\" rel=\"noopener\">Creado por María del Pilar Pérez Moreno</a> <span class=\"license\"><span class=\"sep\">(</span><a href=\"http://creativecommons.org/licenses/\" rel=\"license nofollow noopener\" target=\"_blank\" title=\"Creative Commons BY-NC-SA\">CC BY-NC-SA</a><span class=\"sep\">)</span></span></figcaption>\n</figure>\n<p><img src=\"{{context_path}}/content/resources/Documento sin título (1).pdf\" alt=\"\" /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778171707943-3lzr6ayvp</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>LÍNEA TEMPORAL</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>LÍNEA TEMPORAL</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778171707943-3lzr6ayvp</odePageId>
+      <odeBlockId>block-1778172018306-3e0uhy6oo</odeBlockId>
+      <blockName>ORGANIZACIÓN DE LAS ACTIVIDADES Y TAREAS DEL PROYECTO.</blockName>
+      <iconName>guide</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778171707943-3lzr6ayvp</odePageId>
+          <odeBlockId>block-1778172018306-3e0uhy6oo</odeBlockId>
+          <odeIdeviceId>idevice-1778172018296-7dr4agkvy</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <figure class="exe-figure exe-media position-center license-CC0" style="width: 800px;"><iframe width="800" height="800" src="https://www.canva.com/design/DAHIErZg_7s/Zr6OWfbG4oy48fe-UxzQjQ/view?embed"></iframe>
+<figcaption class="figcaption"><a href="&lt;div style=&quot;position: relative; width: 100%; height: 0; padding-top: 250.0000%;  padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden;  border-radius: 8px; will-change: transform;&quot;&gt;   &lt;iframe loading=&quot;lazy&quot; style=&quot;position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0;margin: 0;&quot;     src=&quot;https://www.canva.com/design/DAHIErZg_7s/Zr6OWfbG4oy48fe-UxzQjQ/view?embed&quot; allowfullscreen=&quot;allowfullscreen&quot; allow=&quot;fullscreen&quot;&gt;   &lt;/iframe&gt; &lt;/div&gt; &lt;a href=&quot;https://www.canva.com/design/DAHIErZg_7s/Zr6OWfbG4oy48fe-UxzQjQ/view?utm_content=DAHIErZg_7s&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Infografía Línea de Tiempo Pastel Sencillo Multicolor&lt;/a&gt; de María del Pilar Pérez Moreno" target="_blank" class="author" rel="noopener">Plantilla de Cristina Culubret</a>. <a href="CANVA" target="_blank" class="title" rel="noopener"><em> Infografía María del Pilar Pérez Moreno</em></a> <span class="license"><span class="sep">(</span><a href="http://creativecommons.org/publicdomain/zero/1.0/deed.en" rel="license nofollow noopener" target="_blank" title="Creative Commons (CC0)">CC0</a><span class="sep">)</span></span></figcaption>
+</figure>
+<p><br /></p>
+<p><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778172018296-7dr4agkvy","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<figure class=\"exe-figure exe-media position-center license-CC0\" style=\"width: 800px;\"><iframe width=\"800\" height=\"800\" src=\"https://www.canva.com/design/DAHIErZg_7s/Zr6OWfbG4oy48fe-UxzQjQ/view?embed\"></iframe>\n<figcaption class=\"figcaption\"><a href=\"&lt;div style=&quot;position: relative; width: 100%; height: 0; padding-top: 250.0000%;  padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden;  border-radius: 8px; will-change: transform;&quot;&gt;   &lt;iframe loading=&quot;lazy&quot; style=&quot;position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0;margin: 0;&quot;     src=&quot;https://www.canva.com/design/DAHIErZg_7s/Zr6OWfbG4oy48fe-UxzQjQ/view?embed&quot; allowfullscreen=&quot;allowfullscreen&quot; allow=&quot;fullscreen&quot;&gt;   &lt;/iframe&gt; &lt;/div&gt; &lt;a href=&quot;https://www.canva.com/design/DAHIErZg_7s/Zr6OWfbG4oy48fe-UxzQjQ/view?utm_content=DAHIErZg_7s&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Infografía Línea de Tiempo Pastel Sencillo Multicolor&lt;/a&gt; de María del Pilar Pérez Moreno\" target=\"_blank\" class=\"author\" rel=\"noopener\">Plantilla de Cristina Culubret</a>. <a href=\"CANVA\" target=\"_blank\" class=\"title\" rel=\"noopener\"><em> Infografía María del Pilar Pérez Moreno</em></a> <span class=\"license\"><span class=\"sep\">(</span><a href=\"http://creativecommons.org/publicdomain/zero/1.0/deed.en\" rel=\"license nofollow noopener\" target=\"_blank\" title=\"Creative Commons (CC0)\">CC0</a><span class=\"sep\">)</span></span></figcaption>\n</figure>\n<p><br /></p>\n<p><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778178392195-61xkbk0xc</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>INSTRUMENTOS DE EVALUACIÓN</pageName>
+  <odeNavStructureOrder>6</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>INSTRUMENTOS DE EVALUACIÓN</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778178392195-61xkbk0xc</odePageId>
+      <odeBlockId>block-1778179630437-yfllgdfzg</odeBlockId>
+      <blockName></blockName>
+      <iconName>objetives</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778178392195-61xkbk0xc</odePageId>
+          <odeBlockId>block-1778179630437-yfllgdfzg</odeBlockId>
+          <odeIdeviceId>idevice-1778179630432-n16pn5278</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><iframe width="774" height="427" src="https://docs.google.com/document/d/e/2PACX-1vR_ARSgAEB-XvbPb2fpSInqvZrtz_YF1evGLLhSA7dff86Xt87bsp2cY-C_ws3Z6B4l5laqS9BAWn8k/pub?embedded=true"></iframe></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778179630432-n16pn5278","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><iframe width=\"774\" height=\"427\" src=\"https://docs.google.com/document/d/e/2PACX-1vR_ARSgAEB-XvbPb2fpSInqvZrtz_YF1evGLLhSA7dff86Xt87bsp2cY-C_ws3Z6B4l5laqS9BAWn8k/pub?embedded=true\"></iframe></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778188366266-yr5xxuagx</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>CRÉDITOS</pageName>
+  <odeNavStructureOrder>7</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>CRÉDITOS</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778188366266-yr5xxuagx</odePageId>
+      <odeBlockId>block-1778270508051-mz2tvsj1u</odeBlockId>
+      <blockName>Descargar el archivo fuente</blockName>
+      <iconName>interactive</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778188366266-yr5xxuagx</odePageId>
+          <odeBlockId>block-1778270508051-mz2tvsj1u</odeBlockId>
+          <odeIdeviceId>idevice-1778270508011-qswaqk1ce</odeIdeviceId>
+          <odeIdeviceTypeName>download-source-file</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-download-package-instructions"><table class="exe-table exe-package-info"><caption>Información general sobre este recurso educativo</caption>
+<tbody>
+<tr>
+<th>Título</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-title">¿Quién soy? </span></td>
+</tr>
+<tr>
+<th>Descripción</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-description">Se pretende fomentar la expresión y comprensión oral, a través de descripciones orales. 
+</span></td>
+</tr>
+<tr>
+<th>Autoría</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-author">María del Pilar Pérez Moreno</span></td>
+</tr>
+<tr>
+<th>Licencia</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-license">creative commons: attribution - share alike 4.0</span></td>
+</tr>
+</tbody>
+</table>
+<p style="text-align: center;">Este contenido fue creado con <a href="https://exelearning.net/">eXeLearning</a>, el editor libre y de fuente abierta diseñado para crear recursos educativos.</p></div><p class="exe-download-package-link"><a download="exe-package:elp-name" href="exe-package:elp" style="background-color:#107275;color:#ffffff;">Descargar el archivo .elpx</a></p>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
